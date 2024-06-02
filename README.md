@@ -18,8 +18,6 @@ Hi My Name Is Raditya Mulya Akbar<br>🤝 I’m looking for help to learn about 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raditxt&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
