@@ -1,20 +1,25 @@
-# 💫 About Me
+# ⚔️ About Me — Raditya
 
-🔭 I’m currently working on building a deep and strategic understanding of Artificial Intelligence, including its ethics, alignment, and long-term impact.
+🔭 I'm currently building a complete and deeply integrated understanding of **Artificial Intelligence systems**, from the fundamentals of code and math to the frontier of **autonomous agents, neural-inspired architectures, and AGI safety**.
 
-👯 I’m looking to collaborate on research-driven AI projects, particularly those involving language models, interpretability, or quantum-AI intersections.
+🧠 I’m focused on **AI Engineering, Deep Learning, Robotics, NLP, Reinforcement Learning**, and long-term efforts in **AGI & ASI design**. I combine structured systems thinking, full-stack development, and neuroscience-inspired computation to design tools, not just models.
 
-🤝 I’m open to mentorship, opportunities to contribute to meaningful open-source projects, and expanding my network in the AI research community.
+🤝 I’m open to collaboration in meaningful open-source AI projects, agentic system research, and tool-based engineering — especially those tackling AI alignment, interpretability, and system integration.
 
-🌱 I’m currently learning advanced machine learning concepts, Python for AI research, and the foundations of quantum computing and blockchain technologies.
+🚀 Currently working through a long-term **AI roadmap** — from building small real-world tools, to developing full-stack autonomous AI systems. I publish my daily work, logs, and systems incrementally here as part of my learning journey.
 
-💬 Ask me about AI ethics, Bitcoin fundamentals, or how I design a calm, focused workflow rooted in Japanese philosophy.
+🌱 Currently learning:  
+`Python` • `Git/Linux` • `Data Engineering` • `Machine Learning (scikit-learn)` • `Deep Learning (PyTorch)` • `LLM Systems` • `LangChain` • `RAG pipelines` • `System Design` • `Cognitive Science`
 
-⚡ Fun fact: I approach life and learning through a crafted persona called **"Kuroya"** — a quiet strategist inspired by anime, philosophy, and complex characters like Levi Ackerman and Walter White.
+💬 Ask me about:  
+AGI systems • LLM tools • Autonomous AI workflows • AI alignment • Reinforcement Learning agents • How I design daily systems with full compounding in mind.
+
+🛡️ I believe in:  
+`No Hype.` `No Branding.` `Just Build.`
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rd1tyaaaa)
 
 ---
@@ -26,14 +31,19 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Currently Exploring:**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/FAISS-ChromaDB-%23E34F26?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -45,11 +55,12 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Quote That Drives Me
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Raditxt&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Powered by Aether Warpath & GPRM -->
