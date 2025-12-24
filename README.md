@@ -45,16 +45,3 @@ Data analysis workflows • ML fundamentals • Feature engineering • Model ev
 - FastAPI
 - Docker
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditxt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Raditxt&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditxt&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-> _Focus beats noise. Consistency beats intensity._
