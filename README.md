@@ -2,12 +2,12 @@
 
 # Raditya
 
-**Data / ML engineer in training — I build systems, not scripts.**
+**IT Enthusiast**
 
 Final-year Computer & Network Engineering student (D4, PNUP, Makassar), shipping full-stack systems and ML pipelines end-to-end: database → API → model → UI. Fundamentals over hype.
 
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radityama8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/raditya-mulya-akbar/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditya-mulya-akbar/)
 [![X](https://img.shields.io/badge/X-follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rd1tyaaaa)
 
 </div>
@@ -19,12 +19,12 @@ Final-year Computer & Network Engineering student (D4, PNUP, Makassar), shipping
 - Shipping full-stack systems (backend, database, frontend, mobile) that handle real-world constraints like offline operation and local sync
 - Grounding technical decisions in data and published evidence rather than assumptions
 - Publishing progress consistently as part of a disciplined learning system, not a portfolio of one-offs
-- Learning everyday
+- Learning every day
 
 ### How I work
 Ship complete systems → document trade-offs clearly → treat every metric with skepticism until I understand what it hides. I believe solid fundamentals compound faster than chasing trends.
 
-📂 **Repos below are my projects**  pinned projects show full-stack systems built under real constraints and ML work evaluated on precision/recall/cost, not vanity metrics.
+📂 **Repos below are the actual evidence** — pinned projects show full-stack systems built under real constraints and ML work evaluated on precision/recall/cost, not vanity metrics.
 
 ---
 
@@ -44,15 +44,6 @@ Ship complete systems → document trade-offs clearly → treat every metric wit
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Currently exploring:** PyTorch • FastAPI • Docker
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditxt&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditxt&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
