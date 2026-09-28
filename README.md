@@ -17,34 +17,46 @@ I learn by building complete projects end to end (database, API, model, UI) and 
 
 ## 🔭 What I'm working on
 
-- **Machine learning:** learning to evaluate models with metrics that fit the problem (precision, recall, cost) instead of relying on accuracy alone, especially on imbalanced data.
-- **Full-stack systems:** building apps across backend, database, web, and mobile that deal with real constraints like offline use and local sync.
-- **Evidence over assumptions:** trying to base technical decisions on data and published research.
-- **Learning in public:** publishing progress regularly instead of shipping one-off projects.
+- **Waregos:** a grocery management system for my family's shop: POS, stock, debts, and reports, with a Fastify API, a Next.js dashboard, and a Flutter Android app.
+- **Finance app:** a personal finance app based on *The Psychology of Money*, built with Svelte 5, Bun, and Hono. Currently in the CRUD and dashboard phase.
+- **BTC market analysis:** a Python project to understand what drives Bitcoin price (macro, micro, halving cycle). Early stage.
 
 ## 🧭 How I work
 
-Ship complete systems, document trade-offs clearly, and question every metric until I understand what it hides. I'm still early in my career, so I focus on strong fundamentals rather than chasing trends.
-
-My pinned repositories show where I am right now.
+I learn by building complete systems, writing down trade-offs, and adding validation and tests as I go. I'm still early in my career, so I focus on fundamentals over trends.
 
 ---
 
 ## 🧰 Tech Stack
 
-<div align="center">
+*What I use in my personal projects.*
 
-<img src="https://skillicons.dev/icons?i=py,ts,dart,numpy,pandas,sklearn,postgres,prisma,fastify,nextjs,flutter,git&perline=6" alt="Tech stack" />
+**Languages**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+**Backend & Database**<br>
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Currently exploring:** PyTorch · FastAPI · Docker
+**Frontend & Mobile**<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<div align="center">
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,docker&perline=3" alt="Currently exploring" />
+**Currently exploring:** Java · Spring Boot · Machine Learning
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ---
 
