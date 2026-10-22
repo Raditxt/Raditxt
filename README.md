@@ -34,10 +34,9 @@ Saya masih terus belajar, dan saya jujur soal itu. Yang saya mulai, saya usahaka
 *Yang saya pakai sehari-hari.*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,svelte,flutter,postgres,sqlite,prisma,git&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git&perline=10" alt="tech stack" />
 </p>
 
-**Sedang dipelajari:** Java · Spring Boot · Machine Learning
 
 ## 🤝 Mari Ngobrol
 
