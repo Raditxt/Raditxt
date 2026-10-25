@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1F6FEB,100:2F81F7&amp;height=190&amp;section=header&amp;text=Raditya%20Mulya%20Akbar&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Web%20%26%20Backend%20Developer%20%E2%80%A2%20Makassar&amp;descSize=18&amp;descAlignY=60" alt="header" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi%2C+I'm+Raditya+%F0%9F%91%8B;Final-year+D4+student;Learning+by+building+complete+systems;From+database+to+UI" alt="Typing SVG" />
 
 <br/>
