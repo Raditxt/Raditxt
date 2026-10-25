@@ -109,10 +109,10 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F81F7&amp;icon_color=2F81F7&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Raditxt&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F81F7&amp;icon_color=2F81F7&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F81F7&amp;langs_count=6" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditxt&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F81F7&amp;langs_count=6" alt="Top languages" />
     </td>
   </tr>
 </table>
