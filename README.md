@@ -119,7 +119,7 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&amp;bg_color=0D1117&amp;color=2F81F7&amp;line=2F81F7&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raditxt&amp;bg_color=0D1117&amp;color=2F81F7&amp;line=2F81F7&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
