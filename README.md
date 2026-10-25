@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2F81F7&height=190&section=header&text=Raditya%20Mulya%20Akbar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Backend%20Developer%20%E2%80%A2%20Makassar&descSize=18&descAlignY=60" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1F6FEB,100:2F81F7&amp;height=190&amp;section=header&amp;text=Raditya%20Mulya%20Akbar&amp;fontSize=44&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Web%20%26%20Backend%20Developer%20%E2%80%A2%20Makassar&amp;descSize=18&amp;descAlignY=60" alt="header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Raditya+%F0%9F%91%8B;Final-year+D4+student;Learning+by+building+complete+systems;From+database+to+UI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Hi%2C+I'm+Raditya+%F0%9F%91%8B;Final-year+D4+student;Learning+by+building+complete+systems;From+database+to+UI" alt="Typing SVG" />
 
 <br/>
 
-**Final-year D4 Computer & Network Engineering student at PNUP, Makassar.**<br/>
+**Final-year D4 Computer &amp; Network Engineering student at PNUP, Makassar.**<br/>
 I learn by building projects from the database up to the UI,<br/>
 and writing down what I pick up along the way.
 
@@ -41,16 +41,16 @@ I'll help you build it from scratch, all the way to something that actually work
   <tr>
     <td width="33%" valign="top">
       <h3>🌐 Landing Page</h3>
-      <b>Company profile & online presence</b><br/><br/>
+      <b>Company profile &amp; online presence</b><br/><br/>
       Great for cafés, shops, small businesses, and local services that need a professional look online.
     </td>
     <td width="33%" valign="top">
-      <h3>📦 Inventory & Sales</h3>
+      <h3>📦 Inventory &amp; Sales</h3>
       <b>Stock and transactions, neatly recorded</b><br/><br/>
       Great for shops still tracking stock manually and wanting more order.
     </td>
     <td width="33%" valign="top">
-      <h3>🔌 REST API & Backend</h3>
+      <h3>🔌 REST API &amp; Backend</h3>
       <b>Login, roles, and a database</b><br/><br/>
       Great for small apps that need a solid backend foundation.
     </td>
@@ -81,7 +81,7 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>🎓 D4</h3><sub>Computer & Network Engineering<br/>PNUP Makassar</sub></td>
+    <td align="center" width="25%"><h3>🎓 D4</h3><sub>Computer &amp; Network Engineering<br/>PNUP Makassar</sub></td>
     <td align="center" width="25%"><h3>🧱 Full Flow</h3><sub>Database to UI</sub></td>
     <td align="center" width="25%"><h3>📝 Transparent</h3><sub>Honest about capacity</sub></td>
     <td align="center" width="25%"><h3>✅ Finisher</h3><sub>Start it, ship it</sub></td>
@@ -95,8 +95,33 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
 *What I use day to day.*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git&perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git&amp;perline=10" alt="tech stack" />
 </p>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+*Angka-angka di balik kebiasaan membangun.*
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F81F7&amp;icon_color=2F81F7&amp;include_all_commits=true&amp;count_private=true" alt="GitHub stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F81F7&amp;langs_count=6" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&amp;bg_color=0D1117&amp;color=2F81F7&amp;line=2F81F7&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Contribution graph" width="100%" />
+
+</div>
 
 ---
 
@@ -113,6 +138,6 @@ Tell me what you need. I'll help as best I can, and if I can't, I'll say so.
 
 `Build the fundamentals.` `Finish the system.` `Keep learning.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F6FEB,100:0D1117&height=110&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2F81F7,50:1F6FEB,100:0D1117&amp;height=110&amp;section=footer" alt="footer" width="100%" />
 
 </div>
