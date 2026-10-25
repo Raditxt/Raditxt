@@ -95,7 +95,7 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
 *What I use day to day.*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git&amp;perline=10" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git" alt="tech stack" />
 </p>
 
 ---
@@ -118,6 +118,8 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
 </table>
 
 <img src="https://streak-stats.demolab.com?user=Raditxt&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak" />
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditxt&amp;theme=github_dark" alt="Profile summary" width="100%" />
 
