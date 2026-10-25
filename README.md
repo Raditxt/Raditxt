@@ -12,9 +12,9 @@ and writing down what I pick up along the way.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radityama8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditya-mulya-akbar/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rd1tyaaaa)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:radityama8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/raditya-mulya-akbar/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white)](https://x.com/rd1tyaaaa)
 
 </div>
 
@@ -117,9 +117,9 @@ I'm still learning, and I'm honest about that. What I start, I aim to finish, an
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Raditxt&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raditxt&amp;bg_color=0D1117&amp;color=2F81F7&amp;line=2F81F7&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditxt&amp;theme=github_dark" alt="Profile summary" width="100%" />
 
 </div>
 
