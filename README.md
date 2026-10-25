@@ -77,15 +77,6 @@ I'm an early-career developer focused on **web and backend**. I enjoy the parts 
 
 I'm still learning, and I'm honest about that. What I start, I aim to finish, and I note the trade-offs and the parts that aren't perfect yet.
 
-<table>
-  <tr>
-    <td align="center" width="25%"><h3>🎓 D4</h3><sub>Computer &amp; Network Engineering<br/>PNUP Makassar</sub></td>
-    <td align="center" width="25%"><h3>🧱 Full Flow</h3><sub>Database to UI</sub></td>
-    <td align="center" width="25%"><h3>📝 Transparent</h3><sub>Honest about capacity</sub></td>
-    <td align="center" width="25%"><h3>✅ Finisher</h3><sub>Start it, ship it</sub></td>
-  </tr>
-</table>
-
 ---
 
 ## 🧰 Tech Stack
