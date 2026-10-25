@@ -1,51 +1,118 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hai%2C+saya+Raditya+%F0%9F%91%8B;Mahasiswa+tingkat+akhir+D4;Belajar+dengan+membangun+sistem+utuh;Dari+database+sampai+UI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2F81F7&height=190&section=header&text=Raditya%20Mulya%20Akbar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Backend%20Developer%20%E2%80%A2%20Makassar&descSize=18&descAlignY=60" alt="header" width="100%" />
 
-**Mahasiswa tingkat akhir D4 Teknik Komputer & Jaringan di PNUP, Makassar.**
-Saya belajar dengan membangun proyek dari database sampai UI, dan menuliskan apa yang saya pelajari di sepanjang jalan.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Raditya+%F0%9F%91%8B;Final-year+D4+student;Learning+by+building+complete+systems;From+database+to+UI" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-Hubungi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radityama8@gmail.com)
+<br/>
+
+**Final-year D4 Computer & Network Engineering student at PNUP, Makassar.**<br/>
+I learn by building projects from the database up to the UI,<br/>
+and writing down what I pick up along the way.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radityama8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raditya-mulya-akbar/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rd1tyaaaa)
 
 </div>
 
+<br/>
+
 ---
-
-## 🧭 Tentang Saya
-
-Saya developer awal karier yang fokus ke **web dan backend**. Saya suka bagian yang ada logikanya: stok yang tidak boleh minus, transaksi yang tercatat rapi, dan halaman yang cepat dibuka.
-
-Saya masih terus belajar, dan saya jujur soal itu. Yang saya mulai, saya usahakan selesai — dan saya catat trade-off serta bagian yang belum sempurna.
-
-## 🛠️ Yang Bisa Saya Bantu
-
-| Jasa | Cocok untuk |
-|---|---|
-| 🌐 **Landing page / company profile** | Kafe, toko, UMKM, jasa lokal yang butuh halaman online sederhana |
-| 📦 **Sistem inventory & penjualan** | Toko yang masih mencatat stok manual |
-| 🔌 **REST API & backend** | Aplikasi kecil yang butuh login, role, dan database |
-
-> Karena saya masih mahasiswa tingkat akhir, saya terbuka soal kapasitas, timeline, dan budget. Kalau kebutuhannya di luar yang saya kuasai, saya akan bilang terus terang.
-
-## 🧰 Tech Stack
-
-*Yang saya pakai sehari-hari.*
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git&perline=10" alt="tech stack" />
-</p>
-
-
-## 🤝 Mari Ngobrol
-
-Punya ide website atau butuh sistem sederhana untuk usaha? Ceritakan kebutuhannya. Saya akan bantu sebisa saya — dan kalau memang belum bisa, saya akan bilang.
-
-📩 [radityama8@gmail.com](mailto:radityama8@gmail.com)
 
 <div align="center">
 
-`Bangun fundamental.` `Selesaikan sistemnya.` `Terus belajar.`
+## ✨ Running a business without a tidy system yet?
+
+**A site that loads fast. Stock that never goes negative. A backend you can rely on.**<br/>
+I'll help you build it from scratch, all the way to something that actually works.
+
+[**📩 Tell Me What You Need →**](mailto:radityama8@gmail.com?subject=Hi%20Raditya%2C%20I%20need%20help%20with%20a%20website%2Fsystem)
+
+</div>
+
+---
+
+## 🛠️ What I Can Help With
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Landing Page</h3>
+      <b>Company profile & online presence</b><br/><br/>
+      Great for cafés, shops, small businesses, and local services that need a professional look online.
+    </td>
+    <td width="33%" valign="top">
+      <h3>📦 Inventory & Sales</h3>
+      <b>Stock and transactions, neatly recorded</b><br/><br/>
+      Great for shops still tracking stock manually and wanting more order.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔌 REST API & Backend</h3>
+      <b>Login, roles, and a database</b><br/><br/>
+      Great for small apps that need a solid backend foundation.
+    </td>
+  </tr>
+</table>
+
+> 💬 Since I'm still a final-year student, I'm upfront about **capacity, timeline, and budget**.
+> If your needs fall outside what I can handle, I'll tell you straight.
+
+---
+
+## 🔄 How I Work
+
+| Step | What happens |
+|:---:|---|
+| **1️⃣ Talk** | You describe what you need, and we align on expectations, timeline, and budget. |
+| **2️⃣ Plan** | I put together a simple plan: core features first, the rest in stages. |
+| **3️⃣ Build** | Built from database to interface, with regular updates. |
+| **4️⃣ Handover** | The system runs, you know how to use it, and I hand over notes on trade-offs. |
+
+---
+
+## 🧭 About Me
+
+I'm an early-career developer focused on **web and backend**. I enjoy the parts with real logic: stock that can't go negative, transactions that are recorded cleanly, and pages that open fast.
+
+I'm still learning, and I'm honest about that. What I start, I aim to finish, and I note the trade-offs and the parts that aren't perfect yet.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>🎓 D4</h3><sub>Computer & Network Engineering<br/>PNUP Makassar</sub></td>
+    <td align="center" width="25%"><h3>🧱 Full Flow</h3><sub>Database to UI</sub></td>
+    <td align="center" width="25%"><h3>📝 Transparent</h3><sub>Honest about capacity</sub></td>
+    <td align="center" width="25%"><h3>✅ Finisher</h3><sub>Start it, ship it</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+*What I use day to day.*
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,svelte,postgres,prisma,git&perline=10" alt="tech stack" />
+</p>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Talk
+
+Have a website idea, or need a simple system for your business?<br/>
+Tell me what you need. I'll help as best I can, and if I can't, I'll say so.
+
+[![Email](https://img.shields.io/badge/📩_radityama8@gmail.com-2F81F7?style=for-the-badge)](mailto:radityama8@gmail.com)
+
+<br/>
+
+`Build the fundamentals.` `Finish the system.` `Keep learning.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1F6FEB,100:0D1117&height=110&section=footer" alt="footer" width="100%" />
 
 </div>
