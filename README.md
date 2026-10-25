@@ -138,6 +138,4 @@ Tell me what you need. I'll help as best I can, and if I can't, I'll say so.
 
 `Build the fundamentals.` `Finish the system.` `Keep learning.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2F81F7,50:1F6FEB,100:0D1117&amp;height=110&amp;section=footer" alt="footer" width="100%" />
-
 </div>
